@@ -1,5 +1,5 @@
 
-<h1>Panda Ecommerce Website</h1>
+<h1>Panda Ecommerce Website </h1>
 
 
 Welcome to our innovative ecommerce store powered by the latest technologies! I have created an exceptional online shopping experience by leveraging the power of Next.js, MongoDB, Node.js, Express.js, and Tailwind CSS.
